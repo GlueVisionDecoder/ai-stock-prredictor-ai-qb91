@@ -1,4 +1,4 @@
-# 
+# Updated AI Stock Price Predictor tools. Featuring neural-networks and speech-recognition — optimized for maximum performance.
 
 
 
